@@ -7219,6 +7219,11 @@
         "50000234": "AVA",
         "50000235": "PKWT",
         "50000236": "KATE",
+        "50000237": "CALEB",
+        "50000238": "ASAP",
+        "50000239": "YYYY$",
+        "50000240": "RRRR6",
+        "50000241": "GOOGL",
         "88888888": "PAA",
         "123456789": "PUSH",
         "193000000": "SRCT",
@@ -7687,6 +7692,26 @@
         "95": {
           "lpToken": "95",
           "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000236\"}]}}]]"
+        },
+        "96": {
+          "lpToken": "96",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000237\"}]}}]]"
+        },
+        "97": {
+          "lpToken": "97",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000238\"}]}}]]"
+        },
+        "98": {
+          "lpToken": "98",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000239\"}]}}]]"
+        },
+        "99": {
+          "lpToken": "99",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000240\"}]}}]]"
+        },
+        "100": {
+          "lpToken": "100",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000241\"}]}}]]"
         }
       },
       "specName": "westmint"
